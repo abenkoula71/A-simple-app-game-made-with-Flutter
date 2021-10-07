@@ -1,16 +1,10 @@
-# test_play
+<h1>Game app ui <ith flutter Clone </h1>
 
-A new Flutter project.
+<h3> app Game 07/10/2021</h3>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/abenkoula71/A-simple-app-game-made-with-Flutter/blob/main/Screenshot_1633580323.png" width="300" />
+<hr>
+ <img src="https://github.com/abenkoula71/A-simple-app-game-made-with-Flutter/blob/main/Screenshot_1633580334.png" width="300" />
+<hr>
+   <img src="https://github.com/abenkoula71/A-simple-app-game-made-with-Flutter/blob/main/Screenshot_1633580345.png" width="300" />
+<hr>
